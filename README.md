@@ -1,2 +1,2 @@
 # spydercodes
-Embracing the world technology
+Embracing the world of technology
